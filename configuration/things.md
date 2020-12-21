@@ -235,7 +235,7 @@ If you decide not to, then the label from the referenced channel type definition
 
 ### Linking Items
 
-Items can be linked to Channels of discovered or manually defined Things inside Paper UI or inside configuration files.
+Items can be linked to Channels of discovered or manually defined Things inside Main UI or inside configuration files.
 For more details about Item definition and usage, please refer to the [Items configuration article]({{base}}/configuration/items.html).
 
 It is important to note, that Channels of discovered Things can also be linked to Items defined in `.items` files.
